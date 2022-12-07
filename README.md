@@ -1,5 +1,4 @@
 # BoogieWaterCTF
-A fun capture the flag activity created for a final project for a class by three awesome dudes
 A beginner friendly Virtual Machine escape capture flag activity.
 
 To get started download the VM from here:
